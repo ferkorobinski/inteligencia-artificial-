@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Como diferentes grupos sociais foram afetados pela Ditadura Militar?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Estudantes universitários foram perseguidos por suas manifestações políticas.",
+                afirmacao: "Muitos jovens participaram ativamente da resistência ao regime e, por isso, foram presos, torturados ou mortos pelos órgãos de repressão.",
             },
             {
                 texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
